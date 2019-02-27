@@ -1,2 +1,2 @@
 # Face and Smile Detection App
-Face Detection App Using Android 
+Face and Smile Detection App Using Android Studio.
